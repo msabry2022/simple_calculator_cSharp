@@ -1,0 +1,8 @@
+C:\Users\msabr\source\repos\loopWhile\bin\Debug\loopWhile.exe.config
+C:\Users\msabr\source\repos\loopWhile\bin\Debug\loopWhile.exe
+C:\Users\msabr\source\repos\loopWhile\bin\Debug\loopWhile.pdb
+C:\Users\msabr\source\repos\loopWhile\obj\Debug\loopWhile.csproj.AssemblyReference.cache
+C:\Users\msabr\source\repos\loopWhile\obj\Debug\loopWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\msabr\source\repos\loopWhile\obj\Debug\loopWhile.csproj.CoreCompileInputs.cache
+C:\Users\msabr\source\repos\loopWhile\obj\Debug\loopWhile.exe
+C:\Users\msabr\source\repos\loopWhile\obj\Debug\loopWhile.pdb
