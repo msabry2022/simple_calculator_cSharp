@@ -11,21 +11,6 @@ namespace loopWhile
     {
         static void Main()
         {
-            //int x = 1;
-            //while (x <= 10) 
-            //{
-            //    Console.WriteLine(x);
-            //    x++;
-            //}
-
-            //int x = 0;
-            //do
-            //{
-            //    Console.WriteLine(x);
-            //    x++;
-            //} while (false);
-
-
             // calculator of 2 numbers with 
             // (+ - * / )
             // -----------------------------
