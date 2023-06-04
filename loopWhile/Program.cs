@@ -11,6 +11,15 @@ namespace loopWhile
     {
         static void Main()
         {
+            
+            Console.WriteLine("******************************");
+            Console.WriteLine("* SIMPLE CALCULATOR PROGRAM  *");
+            Console.WriteLine("* Created on June 2023       *");
+            Console.WriteLine("* created by : Mohamed Sabry *");
+            Console.WriteLine("******************************");
+            Console.WriteLine("      ");
+            Console.WriteLine("       ");
+            
             // calculator of 2 numbers with 
             // (+ - * / )
             // -----------------------------
